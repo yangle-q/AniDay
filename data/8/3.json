@@ -8,5 +8,15 @@
     "name": "玛拉妮",
     "anime": "原神",
     "image_url": "img/Mualani.png"
+  },
+  {
+    "name": "天女目瑛",
+    "anime": "缘之空",
+    "image_url": "img/AmatsumeAkira.png"
+  },
+  {
+    "name": "渚一叶",
+    "anime": "缘之空",
+    "image_url": "img/MigiwaKaziha.png"
   }
 ]
